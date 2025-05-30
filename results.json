@@ -1,0 +1,28 @@
+[
+  {
+    "title": "OpenAI",
+    "url": "https://openai.com",
+    "keywords": ["ai", "chatgpt", "openai"]
+  },
+  {
+    "title": "YouTube",
+    "url": "https://youtube.com",
+    "keywords": ["video", "stream", "yt"]
+  },
+  {
+    "title": "BeatsLine",
+    "url": "https://youtube.com/@BeatsLine",
+    "keywords": ["beats", "music", "ajit"]
+  }
+{
+  "title": "Piku Memories",
+  "url": "https://example.com/piku",
+  "keywords": ["piku", "memories", "love"]
+}
+{
+  "title": "Ajit Universe",
+  "url": "https://ajit.dev",
+  "snippet": "Ajit ka apna hi duniya hai.",
+  "keywords": ["ajit", "dev", "pikuva"]
+}
+]

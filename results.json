@@ -2,27 +2,25 @@
   {
     "title": "OpenAI",
     "url": "https://openai.com",
-    "keywords": ["ai", "chatgpt", "openai"]
-  },
-  {
-    "title": "YouTube",
-    "url": "https://youtube.com",
-    "keywords": ["video", "stream", "yt"]
+    "snippet": "OpenAI develops powerful AI like ChatGPT.",
+    "keywords": ["openai", "chatgpt", "ai"]
   },
   {
     "title": "BeatsLine",
     "url": "https://youtube.com/@BeatsLine",
+    "snippet": "BeatsLine is Ajit's official music channel.",
     "keywords": ["beats", "music", "ajit"]
+  },
+  {
+    "title": "Python Programming",
+    "url": "https://www.python.org",
+    "snippet": "Python is a popular and powerful programming language.",
+    "keywords": ["python", "code", "programming"]
+  },
+  {
+    "title": "Termux Tricks",
+    "url": "https://termux.com",
+    "snippet": "Use Linux terminal power on Android with Termux.",
+    "keywords": ["termux", "linux", "android"]
   }
-{
-  "title": "Piku Memories",
-  "url": "https://example.com/piku",
-  "keywords": ["piku", "memories", "love"]
-}
-{
-  "title": "Ajit Universe",
-  "url": "https://ajit.dev",
-  "snippet": "Ajit ka apna hi duniya hai.",
-  "keywords": ["ajit", "dev", "pikuva"]
-}
 ]

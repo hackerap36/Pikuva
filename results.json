@@ -2,7 +2,7 @@
   {
     "title": "OpenAI",
     "url": "https://openai.com",
-    "snippet": "OpenAI develops powerful AI like ChatGPT.",
+    "snippet": "OpenAI develops powerful AI tools like ChatGPT.",
     "keywords": ["openai", "chatgpt", "ai"]
   },
   {
@@ -14,13 +14,7 @@
   {
     "title": "Python Programming",
     "url": "https://www.python.org",
-    "snippet": "Python is a popular and powerful programming language.",
+    "snippet": "Python is a popular programming language.",
     "keywords": ["python", "code", "programming"]
-  },
-  {
-    "title": "Termux Tricks",
-    "url": "https://termux.com",
-    "snippet": "Use Linux terminal power on Android with Termux.",
-    "keywords": ["termux", "linux", "android"]
   }
 ]

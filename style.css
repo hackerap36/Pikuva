@@ -1,93 +1,37 @@
 body {
-  background: #ffffff;
-  color: #000;
+  background: #000;
+  color: #0ff;
   font-family: Arial, sans-serif;
   text-align: center;
-  padding: 30px;
-  transition: 0.3s;
-}
-
-body.dark {
-  background: #111;
-  color: #eee;
-}
-
-.container {
-  max-width: 800px;
-  margin: auto;
+  padding: 40px;
 }
 
 .logo {
   font-size: 48px;
-  color: #00e6e6;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  color: cyan;
+  text-shadow: 0 0 10px cyan;
 }
 
-.search-area input {
-  width: 60%;
-  padding: 12px;
-  font-size: 18px;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-}
-
-.search-area button {
-  padding: 12px;
-  font-size: 18px;
-  margin-left: 5px;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-#loader {
-  margin-top: 10px;
-  color: #888;
-}
-
-#results {
-  margin-top: 30px;
-  text-align: left;
-}
-
-.result-item {
-  background: #f0f0f0;
-  margin: 10px 0;
+.search-box input {
   padding: 10px;
-  border-radius: 6px;
+  font-size: 18px;
+  width: 250px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  background: #111;
+  color: cyan;
+  box-shadow: 0 0 8px cyan;
 }
 
-body.dark .result-item {
-  background: #222;
-}
-
-.result-item h3 {
-  margin: 0;
-}
-
-.trend-items span {
-  margin: 0 8px;
-  cursor: pointer;
-  color: #0077ff;
-}
-
-#chatbot {
-  margin-top: 40px;
-  text-align: left;
-}
-
-#chatbot input {
-  width: 70%;
-  padding: 10px;
-}
-
-#chatbot button {
+.search-box button {
   padding: 10px 20px;
-  margin-left: 10px;
-}
-
-#chatResponse {
-  margin-top: 10px;
-  background: #efefef;
-  padding: 10px;
+  font-size: 18px;
+  margin-left: 8px;
+  border: none;
   border-radius: 6px;
+  background: cyan;
+  color: black;
+  cursor: pointer;
 }

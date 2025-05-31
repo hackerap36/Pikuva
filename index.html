@@ -3,39 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Pikuva Ultra</title>
+  <title>Pikuva</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="container">
-    <h1 class="logo">Pikuva 🔥</h1>
-
-    <div class="toggle-bar">
-      <button id="darkModeToggle">🌙 Toggle Mode</button>
-    </div>
-
-    <div class="search-area">
-      <input type="text" id="searchInput" placeholder="Search with Pikuva..." autocomplete="off" />
-      <button id="micBtn">🎤</button>
-      <button onclick="search()">🔍</button>
-      <div id="loader" style="display:none;">🔄 Searching...</div>
-    </div>
-
-    <div id="trending">
-      <h3>🔥 Trending Searches</h3>
-      <div class="trend-items" id="trendItems"></div>
-    </div>
-
-    <div id="results"></div>
-
-    <div id="chatbot">
-      <h3>🤖 Ask Me Anything</h3>
-      <input type="text" id="chatInput" placeholder="Ask here..." />
-      <button onclick="askChat()">Ask</button>
-      <div id="chatResponse"></div>
-    </div>
+  <h1 class="logo">Pikuva</h1>
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Search here..." />
+    <button id="micBtn">🎤</button>
+    <button onclick="search()">Search</button>
   </div>
-
   <script src="script.js"></script>
 </body>
 </html>

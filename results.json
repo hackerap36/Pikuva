@@ -3,7 +3,7 @@
     "title": "BeatsLine",
     "url": "https://youtube.com/@BeatsLine",
     "snippet": "BeatsLine is Ajit's official music channel.",
-    "keywords": ["beats", "music", "ajit"]
+    "keywords": ["beatsline", "music", "ajit"]
   },
   {
     "title": "OpenAI",
@@ -12,16 +12,51 @@
     "keywords": ["openai", "chatgpt", "ai"]
   },
   {
+    "title": "Python",
+    "url": "https://python.org",
+    "snippet": "Python is a popular programming language used for many things.",
+    "keywords": ["python", "code", "programming"]
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "snippet": "YouTube is the largest video sharing platform.",
+    "keywords": ["youtube", "video", "watch"]
+  },
+  {
     "title": "Termux",
     "url": "https://termux.com",
-    "snippet": "Termux is a Linux terminal emulator for Android.",
+    "snippet": "Termux gives you a Linux terminal on Android.",
     "keywords": ["termux", "linux", "android"]
   },
   {
-    "title": "Python",
-    "url": "https://www.python.org",
-    "snippet": "Python is a high-level programming language.",
-    "keywords": ["python", "code", "programming"]
+    "title": "Linux Foundation",
+    "url": "https://linuxfoundation.org",
+    "snippet": "The Linux Foundation supports open-source innovation.",
+    "keywords": ["linux", "opensource", "foundation"]
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com",
+    "snippet": "GitHub is a code hosting platform for collaboration.",
+    "keywords": ["github", "repo", "version control"]
+  },
+  {
+    "title": "HTML Basics",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "snippet": "HTML is the standard markup for creating websites.",
+    "keywords": ["html", "web", "frontend"]
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://wikipedia.org",
+    "snippet": "Wikipedia is a free online encyclopedia.",
+    "keywords": ["wikipedia", "encyclopedia", "articles"]
+  },
+  {
+    "title": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "snippet": "ChatGPT is an AI language model that chats smartly.",
+    "keywords": ["chatgpt", "ai", "openai", "assistant"]
   }
 ]
-

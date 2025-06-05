@@ -3,13 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Pikuva</title>
+  <title>Pikuva 🌐</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1 class="logo">Pikuva</h1>
+  <h1 class="logo">Pikuva 🌐</h1>
+
   <div class="search-box">
-    <input type="text" id="searchInput" placeholder="Search here..." />
+    <input type="text" id="searchInput" placeholder="Search anything..." />
     <button id="micBtn">🎤</button>
     <button onclick="search()">Search</button>
   </div>
@@ -19,9 +20,11 @@
     <div class="trend-items" id="trendItems"></div>
   </div>
 
+  <div id="results"></div>
+
   <div id="chatbot">
-    <h3>🤖 Ask Me</h3>
-    <input type="text" id="chatInput" placeholder="Ask anything..." />
+    <h3>🤖 Ask Me Anything</h3>
+    <input type="text" id="chatInput" placeholder="Ask here..." />
     <button onclick="askChat()">Ask</button>
     <div id="chatResponse"></div>
   </div>

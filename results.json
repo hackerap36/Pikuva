@@ -1,62 +1,27 @@
 [
   {
-    "title": "OpenAI",
-    "url": "https://openai.com",
-    "snippet": "OpenAI develops powerful AI tools like ChatGPT.",
-    "keywords": ["openai", "chatgpt", "ai"]
-  },
-  {
     "title": "BeatsLine",
     "url": "https://youtube.com/@BeatsLine",
     "snippet": "BeatsLine is Ajit's official music channel.",
     "keywords": ["beats", "music", "ajit"]
   },
   {
-    "title": "Python Programming",
-    "url": "https://www.python.org",
-    "snippet": "Python is a popular and powerful programming language.",
-    "keywords": ["python", "code", "programming"]
+    "title": "OpenAI",
+    "url": "https://openai.com",
+    "snippet": "OpenAI develops artificial intelligence tools like ChatGPT.",
+    "keywords": ["openai", "chatgpt", "ai"]
   },
   {
-    "title": "Termux Tools",
+    "title": "Termux",
     "url": "https://termux.com",
-    "snippet": "Termux brings Linux terminal power to Android.",
-    "keywords": ["termux", "linux", "android", "tools"]
+    "snippet": "Termux is a Linux terminal emulator for Android.",
+    "keywords": ["termux", "linux", "android"]
   },
   {
-    "title": "GitHub",
-    "url": "https://github.com",
-    "snippet": "GitHub hosts millions of developers' code projects.",
-    "keywords": ["github", "git", "code", "version control"]
-  },
-  {
-    "title": "Linux Foundation",
-    "url": "https://linuxfoundation.org",
-    "snippet": "The Linux Foundation promotes open source technologies.",
-    "keywords": ["linux", "opensource", "kernel"]
-  },
-  {
-    "title": "ChatGPT by OpenAI",
-    "url": "https://chat.openai.com",
-    "snippet": "ChatGPT is an AI chatbot developed by OpenAI.",
-    "keywords": ["chatgpt", "openai", "chatbot", "ai"]
-  },
-  {
-    "title": "Ajit Portfolio",
-    "url": "https://ajit.dev",
-    "snippet": "Ajit's digital portfolio and coding journey.",
-    "keywords": ["ajit", "portfolio", "developer"]
-  },
-  {
-    "title": "HTML Basics",
-    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-    "snippet": "HTML is the standard markup language for web pages.",
-    "keywords": ["html", "web", "frontend"]
-  },
-  {
-    "title": "YouTube",
-    "url": "https://youtube.com",
-    "snippet": "YouTube is a video platform where you can watch and upload videos.",
-    "keywords": ["youtube", "video", "entertainment"]
+    "title": "Python",
+    "url": "https://www.python.org",
+    "snippet": "Python is a high-level programming language.",
+    "keywords": ["python", "code", "programming"]
   }
 ]
+

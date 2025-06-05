@@ -27,7 +27,6 @@ fetch("results.json")
 
         snippet.textContent = result.snippet;
 
-        // 🔊 Voice playback
         snippet.onclick = () => {
           const msg = new SpeechSynthesisUtterance(result.snippet);
           speechSynthesis.speak(msg);

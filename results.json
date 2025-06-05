@@ -16,5 +16,11 @@
     "url": "https://www.python.org",
     "snippet": "Python is a popular programming language.",
     "keywords": ["python", "code", "programming"]
+  },
+  {
+    "title": "Termux Tools",
+    "url": "https://termux.com",
+    "snippet": "Termux gives Linux power on Android.",
+    "keywords": ["termux", "linux", "tools"]
   }
 ]

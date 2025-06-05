@@ -1,3 +1,4 @@
+/* 🌌 Global Styling */
 body {
   background: #000;
   color: cyan;
@@ -14,6 +15,7 @@ body {
   text-shadow: 0 0 15px #00ffff;
 }
 
+/* 🔍 Search Box */
 .search-box input {
   padding: 12px;
   font-size: 18px;
@@ -37,17 +39,34 @@ body {
   font-weight: bold;
   cursor: pointer;
   box-shadow: 0 0 10px #00ffff;
+  transition: transform 0.2s;
+}
+
+.search-box button:hover {
+  transform: scale(1.05);
+}
+
+/* 🔥 Trending Section */
+#trending {
+  margin-top: 30px;
 }
 
 .trend-items span {
   margin: 0 8px;
   cursor: pointer;
   color: #00e6e6;
+  font-weight: bold;
   text-shadow: 0 0 6px #00e6e6;
+  transition: color 0.2s;
 }
 
+.trend-items span:hover {
+  color: white;
+}
+
+/* 🧠 Chatbot */
 #chatbot {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 #chatbot input {
@@ -58,6 +77,7 @@ body {
   color: cyan;
   border-radius: 6px;
   box-shadow: 0 0 8px cyan;
+  font-size: 16px;
 }
 
 #chatbot button {
@@ -69,6 +89,7 @@ body {
   border-radius: 6px;
   cursor: pointer;
   box-shadow: 0 0 10px #00ffff;
+  font-size: 16px;
 }
 
 #chatResponse {
@@ -77,4 +98,48 @@ body {
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 0 5px cyan;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  color: #aad;
+  font-size: 15px;
+}
+
+/* 📄 Results Page Layout */
+#results {
+  margin-top: 40px;
+  padding: 0 20px;
+  text-align: left;
+}
+
+.result-item {
+  background: rgba(0, 255, 255, 0.05);
+  margin: 20px auto;
+  padding: 15px 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(0, 255, 255, 0.3);
+  color: cyan;
+  width: 90%;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.result-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 0 14px #0ff;
+}
+
+.result-item a {
+  font-size: 22px;
+  color: #00ffff;
+  text-decoration: none;
+}
+
+.result-item a:hover {
+  text-decoration: underline;
+}
+
+.result-item p {
+  margin-top: 6px;
+  font-size: 16px;
+  color: #aad;
 }

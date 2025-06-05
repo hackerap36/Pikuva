@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
   };
 
-  const trending = ["ChatGPT", "Python", "YouTube", "AI Tools", "Linux", "BeatsLine"];
+  const trending = ["ChatGPT", "Python", "YouTube", "Virat Kohli", "AI Tools", "Linux"];
   trending.forEach(item => {
     const span = document.createElement("span");
     span.textContent = item;

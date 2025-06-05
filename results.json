@@ -8,55 +8,43 @@
   {
     "title": "OpenAI",
     "url": "https://openai.com",
-    "snippet": "OpenAI develops artificial intelligence tools like ChatGPT.",
+    "snippet": "OpenAI develops AI tools like ChatGPT.",
     "keywords": ["openai", "chatgpt", "ai"]
+  },
+  {
+    "title": "Virat Kohli",
+    "url": "https://en.wikipedia.org/wiki/Virat_Kohli",
+    "snippet": "Virat Kohli is a famous Indian cricketer.",
+    "keywords": ["virat", "kohli", "cricket"]
   },
   {
     "title": "Python",
     "url": "https://python.org",
-    "snippet": "Python is a popular programming language used for many things.",
+    "snippet": "Python is a powerful programming language.",
     "keywords": ["python", "code", "programming"]
-  },
-  {
-    "title": "YouTube",
-    "url": "https://www.youtube.com",
-    "snippet": "YouTube is the largest video sharing platform.",
-    "keywords": ["youtube", "video", "watch"]
   },
   {
     "title": "Termux",
     "url": "https://termux.com",
-    "snippet": "Termux gives you a Linux terminal on Android.",
-    "keywords": ["termux", "linux", "android"]
-  },
-  {
-    "title": "Linux Foundation",
-    "url": "https://linuxfoundation.org",
-    "snippet": "The Linux Foundation supports open-source innovation.",
-    "keywords": ["linux", "opensource", "foundation"]
+    "snippet": "Termux brings Linux terminal to Android.",
+    "keywords": ["termux", "android", "linux"]
   },
   {
     "title": "GitHub",
     "url": "https://github.com",
-    "snippet": "GitHub is a code hosting platform for collaboration.",
-    "keywords": ["github", "repo", "version control"]
-  },
-  {
-    "title": "HTML Basics",
-    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-    "snippet": "HTML is the standard markup for creating websites.",
-    "keywords": ["html", "web", "frontend"]
-  },
-  {
-    "title": "Wikipedia",
-    "url": "https://wikipedia.org",
-    "snippet": "Wikipedia is a free online encyclopedia.",
-    "keywords": ["wikipedia", "encyclopedia", "articles"]
+    "snippet": "GitHub is a platform to share and host code.",
+    "keywords": ["github", "repo", "projects"]
   },
   {
     "title": "ChatGPT",
     "url": "https://chat.openai.com",
-    "snippet": "ChatGPT is an AI language model that chats smartly.",
-    "keywords": ["chatgpt", "ai", "openai", "assistant"]
+    "snippet": "ChatGPT is OpenAI's smart chatbot.",
+    "keywords": ["chatgpt", "chat", "openai"]
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "snippet": "Watch and share videos online.",
+    "keywords": ["youtube", "video", "watch"]
   }
 ]
